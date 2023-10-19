@@ -8,3 +8,24 @@
 * {
     font-family: "Montserrat";
 }
+
+body {
+    margin: 0;
+    background-color: #798a73;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    width: 85%;
+    height: 90%;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: #3f403c;
+    border-radius: 10px;
+}
+
+.container h1 {
+    text-align: center;
+    color: #e0dac9;
+}
